@@ -11,6 +11,8 @@ Contributors:
 
 ## Features
 
+## How to Play Game
+
 ## Screenshot
 Screenshot of Game
 
