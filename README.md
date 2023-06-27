@@ -1,1 +1,2 @@
-# Hackathon-2-CPT113-Group-6
+# GuessingGuessing Game
+by Group 6 for Hackathon 2 Group Assignment
