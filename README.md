@@ -7,4 +7,4 @@ Contributors:
 3. Aleeya Hayfa binti Osman (162974)
 
 
-![Screenshot of Hangman Game.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of Hangman Game.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/SabrinaSofian05/GuessingGuessing/blob/main/Screenshot%20of%20game.png?raw=true)https://github.com/SabrinaSofian05/GuessingGuessing/blob/main/Screenshot%20of%20game.png?raw=true)
