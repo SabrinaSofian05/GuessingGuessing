@@ -1,0 +1,12 @@
+------------
+HOW TO PLAY
+------------
+1. Enter your name to make sure you have log in to the game.
+2. Read the instruction.
+3. Guess word according to the total of spaces required.
+
+~Attention
+- Do not type only 1 character. Please type the whole word that you can guess.
+- There is only 6 attempt. After that, the answer will automatically popped out.
+
+Thank you for reading this. Please enjoy the game. Goodluck!
