@@ -8,6 +8,6 @@ Contributors:
 
 
 
-Screenshot of Hangman Game
+Screenshot of Game
 
-![Screenshot of Hangman Game.](https://github.com/SabrinaSofian05/GuessingGuessing/blob/main/Screenshot%20of%20game.png?raw=true)
+![Screenshot of Game.](https://github.com/SabrinaSofian05/GuessingGuessing/blob/main/Screenshot%20of%20game.png?raw=true)
