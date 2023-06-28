@@ -15,6 +15,13 @@ GuessingGuessing game is a single-player guess word game that is an entertaining
 
 ## How to Play Game
 
+In order to play this game. Please read this instructions carefully. 
+1. Register your name first in order to play this game.
+2. Begin the game by making your first guess. Guess a word that you believe could be part of the secret word. You will be given a hint in order to help you in making guesses.
+3. You only have 5 attempts. If you guess the right word within the attempts, you win the game. Else, you lose.
+
+We hope you enjoy this game. Goodluck!
+
 ## Screenshot
 Screenshot of Game
 
