@@ -13,6 +13,16 @@ GuessingGuessing game is a single-player guess word game that is an entertaining
 
 ## Features
 
+Word Database: A comprehensive collection of words that the player will need to guess. The words can be organized into categories or levels, providing variety and difficulty progression.
+
+Clues and Hints: The game should provide clues or hints to assist the player in guessing the word. These clues are in the form of the theme of the special word.
+
+Time Constraints: Some guess word games incorporate time limits, adding a sense of urgency and excitement to the gameplay. Players may be rewarded for guessing the word within a certain time frame.
+
+Limited Guesses: To make the game more challenging, players may have a limited number of guesses to correctly identify the word. This encourages strategic thinking and careful consideration of the available information.
+
+Score or Points System: A scoring mechanism can be implemented to track and reward the player's performance. Points can be awarded based on factors such as the speed of the guess, the number of hints used, or the difficulty of the word.
+
 ## How to Play Game
 
 In order to play this game. Please read this instructions carefully. 
