@@ -10,11 +10,10 @@ void howToPlay();
 
 int main() {
     srand(static_cast<unsigned int>(time(nullptr)));
-
- 	  string name;
+    string name;
     howToPlay();
- 	  cout << "Before we start, what is your name ? ";
- 	  getline(cin,name);
+    cout << "Before we start, what is your name ? ";
+    getline(cin,name);
 
     Answer ans;
     ans.addWord("gucci");
@@ -22,11 +21,11 @@ int main() {
     ans.addWord("Polo");
     ans.addWord("hermes");
     ans.addWord("uniqlo");
-		ans.addWord("dior");
-		ans.addWord("nike");
+    ans.addWord("dior");
+    ans.addWord("nike");
 
     string wordToGuess;
- 	  wordToGuess = ans.generateRandomWord();
+    wordToGuess = ans.generateRandomWord();
 
     GuessWord playerGuess(wordToGuess, 6);
 
