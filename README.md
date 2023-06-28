@@ -24,9 +24,12 @@ _We hope you enjoy this game. Goodluck!_
 
 ## Answers related to programming questions
 
-### How object-oriented concepts were used to develop your game
+### Q: How object-oriented concepts were used to develop your game
 
-### How linked lists/stacks/queues play a role in your game
+A: 
+### Q: How linked lists/stacks/queues play a role in your game
+
+A: 
 
 ## Screenshot
 Screenshot of Game
