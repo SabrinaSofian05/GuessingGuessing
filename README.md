@@ -8,6 +8,7 @@ Contributors:
 
 ## Description
 **What is this game about?**
+GuessingGuessing game is a single-player guess word game that is an entertaining mental exercise that challenges players' word-solving skills. In this game, the player is given a concealed word that they must figure out by making a series of guesses. With the use of tips and hints, the player carefully chooses letters or words they think could be a component of the hidden word. With each guess, the player receives feedback that helps them narrow their options or get closer to the right response. Deciphering the term requires the player to use their language, reasoning, and intuition, all while enjoying the pleasure of solving the puzzle on their own.
 
 ## Features
 
