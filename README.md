@@ -13,15 +13,15 @@ GuessingGuessing game is a single-player guess word game that is an entertaining
 
 ## Features
 
-Word Database: A comprehensive collection of words that the player will need to guess. The words can be organized into categories or levels, providing variety and difficulty progression.
+- Word Database: A comprehensive collection of words that the player will need to guess. The words can be organized into categories or levels, providing variety and difficulty progression.
 
-Clues and Hints: The game should provide clues or hints to assist the player in guessing the word. These clues are in the form of the theme of the special word.
+- Clues and Hints: The game should provide clues or hints to assist the player in guessing the word. These clues are in the form of the theme of the special word.
 
-Time Constraints: Some guess word games incorporate time limits, adding a sense of urgency and excitement to the gameplay. Players may be rewarded for guessing the word within a certain time frame.
+- Time Constraints: Some guess word games incorporate time limits, adding a sense of urgency and excitement to the gameplay. Players may be rewarded for guessing the word within a certain time frame.
 
-Limited Guesses: To make the game more challenging, players may have a limited number of guesses to correctly identify the word. This encourages strategic thinking and careful consideration of the available information.
+- Limited Guesses: To make the game more challenging, players may have a limited number of guesses to correctly identify the word. This encourages strategic thinking and careful consideration of the available information.
 
-Score or Points System: A scoring mechanism can be implemented to track and reward the player's performance. Points can be awarded based on factors such as the speed of the guess, the number of hints used, or the difficulty of the word.
+- Score or Points System: A scoring mechanism can be implemented to track and reward the player's performance. Points can be awarded based on factors such as the speed of the guess, the number of hints used, or the difficulty of the word.
 
 ## How to Play Game
 
@@ -35,14 +35,16 @@ _We hope you enjoy this game. Good luck!_
 ## Answers related to programming questions
 
 ### Q: How object-oriented concepts were used to develop your game
+_Answer_:
 
-A: Object-oriented programming (OOP) is used to implement a GuessingGuessing game by organizing the code into classes and objects that represent different components for this game. Here's a basic example of how OOP can be applied to implement to our game:
+Object-oriented programming (OOP) is used to implement a GuessingGuessing game by organizing the code into classes and objects that represent different components for this game. Here's a basic example of how OOP can be applied to implement to our game:
 
 1. Answer class: The Answer class represents a collection of words stored in a linked list. It encapsulates the data and functions related to managing the word list. The class contains private member variables (head and tail) that store the pointers to the first and last nodes of the linked list. It also has public member functions for adding words to the list and generating a random word.
 
 2. GuessWord class: The GuessWord class represents the main game logic. It encapsulates the data and functions related to the game itself. The class contains private member variables (word, ansBlank, maxGuess, guessNum) that store the word to be guessed, the blank representation of the word, the maximum number of guesses allowed, and the current guess count. It has a constructor that initializes these variables, and a start function that begins the game.
 
 ### Q: How linked lists/stacks/queues play a role in your game
+_Answer_:
 
 1. The answerInNode struct represents a node in the linked list. Each node stores a word (word) and maintains pointers to the next node (next) and the previous node (back).
 
