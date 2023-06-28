@@ -73,6 +73,10 @@ Demo 2 :
 
 https://github.com/SabrinaSofian05/GuessingGuessing/assets/121542712/bcf8401c-7330-410b-9694-dfd55903d4ec
 
+## Video Explanation
+***In order to understand more about this game and its code, please feel free to watch this video in the link below.***
 
+YouTube Link: https://youtu.be/VnSdCyAWH4g
 
+_All gratitude and thanks to my team members, and lecturers who help us complete this assignment. This project is not only strengthening our programming skills and understanding, yet we have strong roleplay and strong friendship. Please enjoy our project. All ideas and efforts came from the three of us._
 
