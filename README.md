@@ -20,7 +20,7 @@ In order to play this game. Please read this instructions carefully.
 2. Begin the game by making your first guess. Guess a word that you believe could be part of the secret word. You will be given a hint in order to help you in making guesses.
 3. You only have 5 attempts. If you guess the right word within the attempts, you win the game. Else, you lose.
 
-We hope you enjoy this game. Goodluck!
+_We hope you enjoy this game. Goodluck!_
 
 ## Screenshot
 Screenshot of Game
