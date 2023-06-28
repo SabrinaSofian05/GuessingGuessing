@@ -35,7 +35,7 @@ int main() {
 }
 
 void howToPlay(){
-	ifstream inFile;  //variable
+	ifstream inFile;  
 	inFile.open("howtoplay.txt"); //open file from howtoplay.txt
 
 
