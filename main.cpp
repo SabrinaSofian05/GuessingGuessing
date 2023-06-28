@@ -18,7 +18,7 @@ int main() {
     Answer ans;
     ans.addWord("gucci");
     ans.addWord("chanel");
-    ans.addWord("Polo");
+    ans.addWord("polo");
     ans.addWord("hermes");
     ans.addWord("uniqlo");
     ans.addWord("dior");
