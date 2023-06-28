@@ -53,11 +53,15 @@ Screenshot of Game
 
 Demo 1 : 
 
-https://github.com/SabrinaSofian05/GuessingGuessing/assets/121542712/cb4d9c49-a6ca-4ba3-8a9c-30ed5c743c73
+https://github.com/SabrinaSofian05/GuessingGuessing/assets/121542712/e9173c2f-38fa-48bc-b080-3c42475f609f
+
+
+
+
 
 Demo 2 :
 
-https://github.com/SabrinaSofian05/GuessingGuessing/assets/121542712/04c750d0-07e3-4353-b115-ad52d183611e
+https://github.com/SabrinaSofian05/GuessingGuessing/assets/121542712/bcf8401c-7330-410b-9694-dfd55903d4ec
 
 
 
