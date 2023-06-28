@@ -78,5 +78,5 @@ https://github.com/SabrinaSofian05/GuessingGuessing/assets/121542712/bcf8401c-73
 
 YouTube Link: https://youtu.be/VnSdCyAWH4g
 
-_All gratitude and thanks to my team members, and lecturers who help us complete this assignment. This project is not only strengthening our programming skills and understanding, yet we have strong roleplay and strong friendship. Please enjoy our project. All ideas and efforts came from the three of us._
+<sub>_All gratitude and thanks to my team members, and lecturers who help us complete this assignment. This project is not only strengthening our programming skills and understanding, yet we have strong roleplay and strong friendship. Please enjoy our project. All ideas and efforts came from the three of us._</sub>
 
