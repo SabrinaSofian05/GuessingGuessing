@@ -14,7 +14,7 @@ GuessWord::GuessWord(string w, int mG){
 
 void GuessWord::start(string n){
 	cout << "\nHi " << n << " !" << endl;
-	cout << "Welcome to Guess The Word Game !\n\n";
+	cout << "Welcome to GuessingGuessing Game !\n\n";
 	cout << "HINT: FASHION BRANDS" << endl;
 	cout << "If you enter the wrong word, your remaining guesses will be deducted.\n\n";
 	cout << "Good luck! Hope you enjoy.\n\n";
