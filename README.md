@@ -2,8 +2,8 @@
 by Group 6 for Hackathon 2 Group Assignment
 
 Contributors: 
-1. Sabrina binti Sofian (164740)
-2. Wan Nurmaisarah binti Wan Muslim (164323)
+1. Sabrina binti Sofian (164740) 
+2. Wan Nurmaisarah binti Wan Muslim (164323) 
 3. Aleeya Hayfa binti Osman (162974)
 
 ## Description
@@ -21,6 +21,12 @@ In order to play this game. Please read this instructions carefully.
 3. You only have 5 attempts. If you guess the right word within the attempts, you win the game. Else, you lose.
 
 _We hope you enjoy this game. Goodluck!_
+
+## Answers related to programming questions
+
+### How object-oriented concepts were used to develop your game
+
+### How linked lists/stacks/queues play a role in your game
 
 ## Screenshot
 Screenshot of Game
