@@ -51,6 +51,6 @@ Screenshot of Game
 
 ## Demonstration Game
 
-Demo 1 : https://drive.google.com/file/d/1m5ettRc3sobWHcroyqgEO7l3KJrKBrJr/view?usp=sharing
+Demo 1 : ![demo game.](https://drive.google.com/file/d/1m5ettRc3sobWHcroyqgEO7l3KJrKBrJr/view?usp=sharing)
 Demo 2 : https://drive.google.com/file/d/16sobTo_2q6IS4eynIGKmRq9XcV-rUs33/view?usp=sharing
 
